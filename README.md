@@ -6,7 +6,7 @@ Content [designed](https://fireship.io/mission/) to increase developer happiness
 
 The monorepo is organized into five sub-projects: 
 
-1. `hugo` - Static Site Generator. This is where the content lives
+1. `hugo` - Static Site Generator. This is where the content lives!
 2. `design` - Theme & CSS
 3. `components` - Angular Elements Web Components
 4. `functions` - Firebase Cloud Functions Serverless Backend
@@ -33,14 +33,14 @@ git clone <your-forked-repo>
 npm install
 npm run dev
 
-git checkout -b my-fix
+git checkout -b my-hot-fix
 # fix some code...
 
 git commit -m "fix: corrected a typo"
-git push origin my-fix
+git push origin my-hot-fix
 ```
 
-Lastly, open a pull request on GitHub. Once merged, your changes will automatically be deployed to the live site via the CI/CD pipeline. 
+Lastly, open a pull request on GitHub. Once merged, your changes will automatically be deployed to the live site via the CI/CD pipeline. And your life will change too. 
 
 ## Running the Site
 
